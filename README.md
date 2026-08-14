@@ -95,6 +95,6 @@ The .env file is added to .gitignore, so the API key is not uploaded to GitHub.
 👩‍💻 Author
 
 
-```text
-Akitha Salyan
+```markdown
+## Akitha Salyan
 MCA Student | Python | Web Development | IoT
